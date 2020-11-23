@@ -11,6 +11,7 @@
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|372 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./solutions/101.%20Symmetric%20Tree.cpp)|8 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|4 ms|
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|N/A|
 |144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](./solutions/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)|0 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)|4 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
