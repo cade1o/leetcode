@@ -10,6 +10,7 @@
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)|4 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.cpp)|4 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|0 ms|
+|290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|4 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
