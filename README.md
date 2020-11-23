@@ -16,6 +16,7 @@
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|4 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
+|402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](./solutions/402.%20Remove%20K%20Digits.cpp)|8 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|8 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|56 ms|
