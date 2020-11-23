@@ -27,6 +27,7 @@
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[C++](./solutions/720.%20Longest%20Word%20in%20Dictionary.cpp)|68 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|4 ms|
+|965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./solutions/965.%20Univalued%20Binary%20Tree.cpp)|0 ms|
 |1012|[ Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[C++](./solutions/1012.%20Numbers%20With%20Repeated%20Digits.cpp)|N/A|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[C++](./solutions/1021.%20Remove%20Outermost%20Parentheses.cpp)|56 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|12 ms|
