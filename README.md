@@ -7,6 +7,7 @@
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./solutions/9.%20Palindrome%20Number.cpp)|12 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./solutions/13.%20Roman%20to%20Integer.cpp)|28 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|4 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|8 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./solutions/75.%20Sort%20Colors.cpp)|4 ms|
 |91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./solutions/91.%20Decode%20Ways.cpp)|0 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|4 ms|
