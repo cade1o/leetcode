@@ -30,6 +30,7 @@
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](./solutions/402.%20Remove%20K%20Digits.cpp)|8 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|8 ms|
+|414|[ Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./solutions/414.%20Third%20Maximum%20Number.cpp)|4 ms|
 |419|[ Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[C++](./solutions/419.%20Battleships%20in%20a%20Board.cpp)|16 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|56 ms|
