@@ -39,6 +39,7 @@
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|56 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](./solutions/565.%20Array%20Nesting.cpp)|28 ms|
+|575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|248 ms|
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|208 ms|
 |688|[ Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[C++](./solutions/688.%20Knight%20Probability%20in%20Chessboard.cpp)|8 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[C++](./solutions/720.%20Longest%20Word%20in%20Dictionary.cpp)|68 ms|
