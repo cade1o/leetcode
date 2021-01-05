@@ -1,3 +1,5 @@
+​
+//Java O(n) or O(1)
 class Solution {
     public int findMinDifference(List<String> timePoints) {
 ​
