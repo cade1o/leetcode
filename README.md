@@ -38,7 +38,7 @@
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./solutions/445.%20Add%20Two%20Numbers%20II.cpp)|56 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
-|539|[ Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[C++](./solutions/539.%20Minimum%20Time%20Difference.cpp)|12 ms|
+|539|[ Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Java](./solutions/539.%20Minimum%20Time%20Difference.java)|2 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](./solutions/565.%20Array%20Nesting.cpp)|28 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|248 ms|
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|208 ms|
