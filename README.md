@@ -48,6 +48,7 @@
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|4 ms|
 |829|[ Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[C++](./solutions/829.%20Consecutive%20Numbers%20Sum.cpp)|8 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[C++](./solutions/867.%20Transpose%20Matrix.cpp)|20 ms|
+|921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[C++](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.cpp)|0 ms|
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./solutions/965.%20Univalued%20Binary%20Tree.cpp)|0 ms|
 |1012|[ Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[C++](./solutions/1012.%20Numbers%20With%20Repeated%20Digits.cpp)|N/A|
 |1021|[ Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[C++](./solutions/1021.%20Remove%20Outermost%20Parentheses.cpp)|56 ms|
