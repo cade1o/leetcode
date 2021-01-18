@@ -42,7 +42,7 @@
 |539|[ Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Java](./solutions/539.%20Minimum%20Time%20Difference.java)|2 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](./solutions/565.%20Array%20Nesting.cpp)|28 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|248 ms|
-|581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|68 ms|
+|581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|28 ms|
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|208 ms|
 |688|[ Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[C++](./solutions/688.%20Knight%20Probability%20in%20Chessboard.cpp)|8 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[C++](./solutions/720.%20Longest%20Word%20in%20Dictionary.cpp)|68 ms|
