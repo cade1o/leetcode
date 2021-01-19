@@ -46,7 +46,7 @@
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|208 ms|
 |688|[ Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[C++](./solutions/688.%20Knight%20Probability%20in%20Chessboard.cpp)|8 ms|
 |720|[ Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[C++](./solutions/720.%20Longest%20Word%20in%20Dictionary.cpp)|68 ms|
-|746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
+|746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|8 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|4 ms|
 |829|[ Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[C++](./solutions/829.%20Consecutive%20Numbers%20Sum.cpp)|8 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[C++](./solutions/867.%20Transpose%20Matrix.cpp)|20 ms|
