@@ -2,10 +2,9 @@ class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
         
-        int l = cost.size() ;
         int dp[1001] ;
-        dp[1] = cost[0] ;
-        dp[2] = cost[1] ;
+        dp[1] = cost[0];
+        dp[2] = cost[1];
         
         if ( cost.size() > 2 )
         {
@@ -16,7 +15,6 @@ public:
             return min(dp[cost.size()],dp[cost.size()-1]) ;
         }
         
-​
-        else return min(dp[1],dp[2]) ;
+        return min(dp[1],dp[2]) ;
     }
 };
