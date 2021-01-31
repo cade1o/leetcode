@@ -57,7 +57,7 @@
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|12 ms|
 |1031|[ Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[C++](./solutions/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.cpp)|8 ms|
 |1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
-|1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|20 ms|
+|1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|4 ms|
 |1160|[ Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[C++](./solutions/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|60 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|0 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.java)|23 ms|
