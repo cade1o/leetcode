@@ -1,32 +1,33 @@
+// O(nlogn) Cade
 class Solution {
 public:
-   int  findmax( vector<int>& s ){
-    int ma = INT_MIN;
-    for( int a: s){
-        ma = max(ma,a);
-    }
-    for( int i = 0 ; i < s.size() ;i++){
-        if( ma == s[i] ) {
-            s.erase(s.begin()+i);
-            break;
-        }
-    }
-    
-    return ma;
-} 
-​
+   
 int lastStoneWeight(vector<int>& stones){
 ​
-        while( stones.size() > 1){
-            for( int b: stones) cout<< b << " ";
-            cout<< endl ;
-            int a = abs(findmax(stones) - findmax(stones)) ;
-            cout << a << endl ;
-            if( a != 0 ) stones.push_back(a);
-        }
+    priority_queue<int> p;
     
-        if( stones.size() == 0) return 0;
-            return stones[0];
+    //build max heap O(n*logn)
+    for( int a: stones) p.push(a);
+    
+    // at most n-1 steps, so O(n*logn)
+    while( p.size() > 1){
+        
+        int m1 = p.top(); // O(1)
+        
+        p.pop(); //O(logn+1)
+        
+        int m2 = p.top();
+        
+        p.pop();
+        
+        int diff = abs(m1 - m2);
+​
+        if( diff != 0 ) p.push(diff); //O(logn+1);
+    }
+    
+    if( p.empty() ) return 0;
+    
+    return p.top();
 }
 ​
 };
