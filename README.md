@@ -32,6 +32,7 @@
 |273|[ Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](./solutions/273.%20Integer%20to%20English%20Words.cpp)|8 ms|
 |277|[ Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[C++](./solutions/277.%20Find%20the%20Celebrity.cpp)|184 ms|
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
+|314|[ Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[C++](./solutions/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.cpp)|8 ms|
 |332|[ Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](./solutions/332.%20Reconstruct%20Itinerary.cpp)|900 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|4 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
