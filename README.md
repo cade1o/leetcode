@@ -70,3 +70,4 @@
 |1335|[ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[C++](./solutions/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)|164 ms|
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|4 ms|
 |1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[C++](./solutions/1462.%20Course%20Schedule%20IV.cpp)|N/A|
+|1524|[ Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[C++](./solutions/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.cpp)|216 ms|
