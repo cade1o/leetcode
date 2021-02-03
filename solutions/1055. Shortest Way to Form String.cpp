@@ -25,7 +25,7 @@ public:
             if( issubseq(target.substr(st,l), source) == 1) {
                 l++;
                 if( st+l == target.size() ) res++;
-            }
+            }
             else {
                 res++;
                 st = i;
