@@ -76,3 +76,4 @@
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|4 ms|
 |1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[C++](./solutions/1462.%20Course%20Schedule%20IV.cpp)|N/A|
 |1524|[ Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[C++](./solutions/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.cpp)|216 ms|
+|1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|4 ms|
