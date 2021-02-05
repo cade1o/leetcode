@@ -36,6 +36,7 @@
 |314|[ Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[C++](./solutions/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.cpp)|8 ms|
 |332|[ Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](./solutions/332.%20Reconstruct%20Itinerary.cpp)|900 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|4 ms|
+|386|[ Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[C++](./solutions/386.%20Lexicographical%20Numbers.cpp)|180 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](./solutions/402.%20Remove%20K%20Digits.cpp)|8 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|8 ms|
