@@ -13,12 +13,12 @@ public:
         int size = tasks.size();
         sort(tasks.begin(), tasks.end(), com);
         
-        for( auto a: tasks){
+        for( auto &a: tasks){
             sum += a[0];
         }
         
         int res = sum;
-        for( auto a: tasks){
+        for( auto &a: tasks){
             if( sum >= a[1]) sum-= a[0];
             else {
                 res += a[1] - sum;
