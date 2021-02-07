@@ -2,7 +2,6 @@
 class Solution {
 public:
     
-​
     int minimumEffort(vector<vector<int>>& tasks) {
         
         int sum = 0;
