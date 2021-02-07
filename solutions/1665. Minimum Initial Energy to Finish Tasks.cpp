@@ -7,6 +7,7 @@ public:
         
         int sum = 0;
 ​
+        //learn from votrubac
         sort(begin(tasks), end(tasks), [](vector<int> &t1, vector<int> &t2) 
         { return t1[1] - t1[0] > t2[1] - t2[0]; });
         
