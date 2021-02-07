@@ -79,3 +79,4 @@
 |1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[C++](./solutions/1462.%20Course%20Schedule%20IV.cpp)|N/A|
 |1524|[ Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[C++](./solutions/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.cpp)|216 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|4 ms|
+|1665|[ Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)|[C++](./solutions/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.cpp)|396 ms|
