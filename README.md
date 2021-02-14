@@ -80,6 +80,7 @@
 |1380|[ Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[C++](./solutions/1380.%20Lucky%20Numbers%20in%20a%20Matrix.cpp)|20 ms|
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|4 ms|
 |1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[C++](./solutions/1462.%20Course%20Schedule%20IV.cpp)|N/A|
+|1505|[ Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/)|[C++](./solutions/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits.cpp)|1860 ms|
 |1524|[ Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[C++](./solutions/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.cpp)|216 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|4 ms|
 |1665|[ Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)|[C++](./solutions/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.cpp)|340 ms|
