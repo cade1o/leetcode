@@ -61,6 +61,7 @@
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[C++](./solutions/848.%20Shifting%20Letters.cpp)|40 ms|
 |867|[ Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[C++](./solutions/867.%20Transpose%20Matrix.cpp)|20 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[C++](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.cpp)|0 ms|
+|958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[C++](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|4 ms|
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./solutions/965.%20Univalued%20Binary%20Tree.cpp)|0 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|20 ms|
 |1012|[ Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[C++](./solutions/1012.%20Numbers%20With%20Repeated%20Digits.cpp)|N/A|
