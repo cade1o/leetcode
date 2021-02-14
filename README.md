@@ -7,6 +7,7 @@
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./solutions/7.%20Reverse%20Integer.cpp)|4 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./solutions/9.%20Palindrome%20Number.cpp)|12 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./solutions/13.%20Roman%20to%20Integer.cpp)|28 ms|
+|23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)|20 ms|
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|0 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|4 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|8 ms|
