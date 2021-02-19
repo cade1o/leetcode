@@ -42,6 +42,7 @@
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
 |314|[ Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[C++](./solutions/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.cpp)|8 ms|
 |332|[ Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](./solutions/332.%20Reconstruct%20Itinerary.cpp)|900 ms|
+|369|[ Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[C++](./solutions/369.%20Plus%20One%20Linked%20List.cpp)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|4 ms|
 |386|[ Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[C++](./solutions/386.%20Lexicographical%20Numbers.cpp)|180 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|236 ms|
