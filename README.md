@@ -85,6 +85,7 @@
 |1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.cpp)|88 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|0 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.java)|23 ms|
+|1318|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|[C++](./solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cpp)|0 ms|
 |1335|[ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[C++](./solutions/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)|164 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|8 ms|
 |1380|[ Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[C++](./solutions/1380.%20Lucky%20Numbers%20in%20a%20Matrix.cpp)|20 ms|
