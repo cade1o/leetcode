@@ -18,6 +18,7 @@
 |91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./solutions/91.%20Decode%20Ways.cpp)|0 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|4 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|372 ms|
+|99|[ Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./solutions/99.%20Recover%20Binary%20Search%20Tree.cpp)|28 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./solutions/101.%20Symmetric%20Tree.cpp)|8 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|4 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
