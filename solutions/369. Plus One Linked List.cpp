@@ -1,3 +1,35 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* plusOne(ListNode* head) {
+        vector<int> digits(101, -1);
+        int k = 1;
+        
+        ListNode* test = head;
+        
+        
+        while( test != nullptr ){
+            
+            digits[k] = test->val;
+            k++;
+            test = test->next;
+        }
+        
+        // support int
+        int st = 0;
+        
+        for( int a = 100; a >= 0; --a){
+            if( digits[a] != -1 ) {
+                if( st == 0 )
                 digits[a]++;
                 
                 st++; 
