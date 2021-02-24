@@ -82,6 +82,7 @@
 |1120|[ Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[C++](./solutions/1120.%20Maximum%20Average%20Subtree.cpp)|936 ms|
 |1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|4 ms|
 |1160|[ Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[C++](./solutions/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|60 ms|
+|1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.cpp)|88 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|0 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.java)|23 ms|
 |1335|[ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[C++](./solutions/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)|164 ms|
