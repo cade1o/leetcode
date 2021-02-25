@@ -57,7 +57,7 @@
 |455|[ Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./solutions/455.%20Assign%20Cookies.cpp)|1712 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |539|[ Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Java](./solutions/539.%20Minimum%20Time%20Difference.java)|2 ms|
-|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|64 ms|
+|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|56 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](./solutions/565.%20Array%20Nesting.cpp)|28 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|248 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|28 ms|
